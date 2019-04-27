@@ -18,5 +18,5 @@
 
 
 
-下一篇:[hello-world](<https://github.com/lingjiao0710/gobyexample/ebook/hello-world.md>)
+下一篇:[hello-world](<./ebook/hello-world.md>)
 

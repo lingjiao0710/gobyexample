@@ -15,7 +15,7 @@ go build hello-world.go
 ./hello-world
 ```
 
-[hello-world.go](<https://github.com/lingjiao0710/gobyexample/src/hello-world.go>)
+[hello-world.go](<../src/hello-world.go>)
 
 ```go
 package main
