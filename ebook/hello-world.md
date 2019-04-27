@@ -27,4 +27,4 @@ func main() {
 
 
 
-下一篇:[值](https://github.com/lingjiao0710/gobyexample/ebook/value.md)
+下一篇:[值](value.md)
