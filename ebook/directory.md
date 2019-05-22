@@ -14,9 +14,9 @@
 
 - [Switch](switch.md)
 
-- [Arrays](arrays.md)
+- [数组 Arrays](arrays.md)
 
-- [Slices](slices.md)
+- [切片 Slices](slices.md)
 
 - [Maps](maps.md)
 
@@ -24,7 +24,13 @@
 
 - [函数 Functions](functions.md)
 
-- [闭包 Closures](Closures.md)
+- [闭包 Closures](closures.md)
+
+- [递归 Recursion](recursion.md)
+
+- [指针 Pointers](pointers.md)
+
+- [结构 Structs](structs.md)
 
   
 
