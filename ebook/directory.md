@@ -32,5 +32,7 @@
 
 - [结构 Structs](structs.md)
 
+- [方法 Methods](methods.md)
+
   
 
