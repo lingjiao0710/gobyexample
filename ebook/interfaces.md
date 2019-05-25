@@ -248,7 +248,7 @@ Naveen R is 25 years old
 "d2 = a"如果被取消注释，我们将得到编译错误**.\interfaces5.go:45:8: cannot use a (type Address) as type Describer in assignment:
 		Address does not implement Describer (Describe method has pointer receiver)**。这是因为，`Describer`接口是使用第22行中的地址指针接收器实现的，我们正在尝试分配`a`哪个是值类型，并且它没有实现`Describer`接口。
 
-[interfaces5.go](<../src/interfaces5go>)
+[interfaces5.go](<../src/interfaces5.go>)
 
 ```go
 package main
