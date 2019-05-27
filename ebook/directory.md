@@ -40,5 +40,9 @@
 
 - [协程 Goroutines](goroutines.md)
 
+- [通道 Channels](channels.md)
+
+- [缓冲通道 Channel Buffering](channelbuffering.md)
+
   
 
