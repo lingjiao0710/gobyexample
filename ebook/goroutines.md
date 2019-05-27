@@ -100,4 +100,4 @@ main terminated
 
 ![img](https://golangbot.com/content/images/2017/07/Goroutines-explained.png)
 
-下一篇:[频道 Channels](channels.md)
+下一篇:[通道 Channels](channels.md)
