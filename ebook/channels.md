@@ -130,4 +130,4 @@ func main() {
 
 
 
-下一篇:[缓冲通道 Channel Buffering](channelbuffering.md)
+下一篇:[缓冲通道 Channel Buffering](channelsbuffering.md)

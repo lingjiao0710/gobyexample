@@ -42,7 +42,7 @@
 
 - [通道 Channels](channels.md)
 
-- [缓冲通道 Channel Buffering](channelbuffering.md)
+- [缓冲通道 Channel Buffering](channelsbuffering.md)
 
 - [通道方向 Channel Directions](channeldirections.md)
 
