@@ -44,5 +44,7 @@
 
 - [缓冲通道 Channel Buffering](channelbuffering.md)
 
+- [通道方向 Channel Directions](channeldirections.md)
+
   
 
